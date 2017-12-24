@@ -16,7 +16,7 @@
     "url": "https://github.com/schoolapply/sa-bootstrap/issues"
   },
   "homepage": "https://github.com/schoolapply/sa-bootstrap#readme",
-  "dependencies": {
+  "devDependencies": {
     "now-ui-kit": "^1.1.0"
   }
 }

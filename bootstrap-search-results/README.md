@@ -25,6 +25,13 @@ This page shows matched articles. Each article has a banner image and a summary 
 
 > [Card layout](https://getbootstrap.com/docs/4.0/components/card/#card-layout) is a great way of grouping cards.
 
+### How to start
+
+- First read through the [contribution guidelines](../CONTRIBUTING.md) for instructions on how to set up a local repository and how to structure your work if you want a review
+- We've included a [copy](template.html) of [template.html](https://github.com/creativetimofficial/now-ui-kit/blob/master/documentation/template.html) from [now-ui-kit](http://demos.creative-tim.com/now-ui-kit/index.html) with some cleanup and scrubbing applied that we want you to use as a foundation
+- Implement each of the [wireframes](wireframes) in separate HTML files using the naming of the wireframe art boards as a guide
+- Keep your files under this directory so they are easy to find
+
 ### Guidelines
 
 - Make sure to be responsive and that the UI looks and feels nice both on mobile and desktop
@@ -32,10 +39,3 @@ This page shows matched articles. Each article has a banner image and a summary 
 - We're using a customized Bootstrap theme called [now-ui-kit](http://demos.creative-tim.com/now-ui-kit/index.html) for our look and feel
 - Usage of standard [Bootstrap components](https://getbootstrap.com/docs/4.0/components/alerts/https://getbootstrap.com/docs/4.0/components) is encouraged
 - Usage of custom CSS and non-Bootstrap aligned HTML is discouraged
-
-### How to start
-
-- First read through the [contribution guidelines](../CONTRIBUTING.md) for instructions on how to set up a local repository and how to structure your work if you want a review
-- We've included a [copy](template.html) of [template.html](https://github.com/creativetimofficial/now-ui-kit/blob/master/documentation/template.html) from [now-ui-kit](http://demos.creative-tim.com/now-ui-kit/index.html) with some cleanup and scrubbing applied that we want you to use as a foundation
-- Implement each of the [wireframes](wireframes) in separate HTML files using the naming of the wireframe art boards as a guide
-- Keep your files under this directory so they are easy to find
